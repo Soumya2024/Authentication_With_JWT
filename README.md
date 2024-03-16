@@ -1,4 +1,4 @@
-#### Jeson Web Token 
+#### Json Web Token 
 
 
 JWT - JWT (JSON Web Token) tokens are used to securely transfer data between two parties, typically between a server and a client.
